@@ -1,4 +1,4 @@
 <?
-Header( “HTTP/1.1 301 Moved Permanently” );
+//Header( “HTTP/1.1 301 Moved Permanently” );
 Header( “Location: https://freelancermasterdirecto.blogspot.com/” );
 ?>
