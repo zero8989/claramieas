@@ -1,4 +1,4 @@
 <?php
 Header( "HTTP/1.1 301 Moved Permanently" );
-Header( "Location: http://freelancermasterdirecto.blogspot.com/");
+Header( "Location: https://www.google.com.do/");
 ?>
